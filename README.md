@@ -23,4 +23,7 @@ The basic steps involved in this process are:
 When using Python IDE’s such as Jupiter, the data is persisted to the client with the above approach and this means more processing time when you have large data set, which leads to drop the productivity of Data Scientists.
 This is where the SAP HANA Data Frame can add real value to a Data Scientist’s work. More features and capabilities are included in SAP HANA 2.0 SPS03 Version to analyze / address the data science use cases with Python driver (hdbcli) and then the Python Client API for machine learning algorithms.
 
+https://medium.com/@josephreddy07/end-to-end-model-of-data-analysis-prediction-using-python-on-sap-hana-table-data-800614d956ca?postPublishedType=repub
+
+
 
